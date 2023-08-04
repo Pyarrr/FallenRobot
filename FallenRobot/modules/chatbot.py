@@ -88,7 +88,7 @@ def fallenadd(update: Update, context: CallbackContext) -> str:
 @gloggable
 def fallen(update: Update, context: CallbackContext):
     message = update.effective_message
-    msg = "• ᴄʜᴏᴏsᴇ ᴀɴ ᴏᴩᴛɪᴏɴ ᴛᴏ ᴇɴᴀʙʟᴇ/ᴅɪsᴀʙʟᴇ ᴄʜᴀᴛʙᴏᴛ"
+    msg = "• ᴅᴇᴋʜ ᴋʏᴀ ʀʜᴇ ʜᴏ ᴇɴᴀʙʟᴇ ɴʜɪ ᴛᴏ ᴅɪꜱᴀʙʟᴇ ᴋʀᴏ ᴊʟᴅɪ #ʀᴏᴄᴋʏ"
     keyboard = InlineKeyboardMarkup(
         [
             [
